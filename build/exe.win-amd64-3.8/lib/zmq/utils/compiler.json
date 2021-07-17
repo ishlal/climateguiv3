@@ -1,0 +1,18 @@
+{
+  "libraries": [
+    "libzmq",
+    "ws2_32",
+    "iphlpapi",
+    "advapi32"
+  ],
+  "include_dirs": [
+    "C:\\ci\\pyzmq_1600442532896\\_h_env\\Library\\include",
+    "zmq\\utils"
+  ],
+  "library_dirs": [
+    "C:\\ci\\pyzmq_1600442532896\\_h_env\\Library\\lib"
+  ],
+  "runtime_library_dirs": [],
+  "extra_link_args": [],
+  "define_macros": []
+}
